@@ -1,12 +1,14 @@
 # Serrye Volki
 
-<img src="https://live.staticflickr.com/65535/51361488601_5afacc2d5a_b.jpg" height="150"/>
+<img src="https://live.staticflickr.com/65535/51361488601_5afacc2d5a_b.jpg" height="300"/>
 
 *Photo by Chris McCormick*
 
 The digital design file is `Serrye Volki.io`. You can open in it in BrickLink's Stud.io program.
 
 I did a video review of this build, you can find it on YouTube [here](https://www.youtube.com/watch?v=vZV0k_5zTOw).
+
+My photos are on Flickr [here](https://flickr.com/photos/129594216@N04/albums/72157719672062396).
 
 ### Original by Benjamin Cheh
 
