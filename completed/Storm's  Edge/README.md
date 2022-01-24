@@ -2,11 +2,13 @@
 
 My replica of <a href=”https://www.flickr.com/photos/tardisblue/25905450946/”>Nick Trotta’s Storm’s Edge!</a>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/129594216@N04/51830639879/in/datetaken/" title="Storm&#x27;s Edge"><img src="https://live.staticflickr.com/65535/51830639879_a2c776648a.jpg" width="500" height="333" alt="Storm&#x27;s Edge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/129594216@N04/51830639879/in/datetaken/" title="Storm&#x27;s Edge"><img src="https://live.staticflickr.com/65535/51830639879_a2c776648a.jpg" width="500" height="333" alt="Storm&#x27;s Edge"></a>
 
-Nick made this easy for me by providing a step-by-step <a href=”https://www.youtube.com/watch?v=NEzdVmqiWWo”>build video</a> for the model. I followed that and built the ship in Stud.io so that I could generate a parts list. 
+Nick made this easy for me by providing a step-by-step [build video](https://www.youtube.com/watch?v=NEzdVmqiWWo) for the model. I followed that and built the ship in Stud.io so that I could generate a parts list. 
 
 The final model file is in this directory (`2021-11-16 - Storm's Edge - Final.io`). I also organized the digital model into build steps so that it was easier to assemble once I had all the pieces! 
+
+
 
 # Storm's Edge Stand
 
